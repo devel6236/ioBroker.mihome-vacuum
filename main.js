@@ -1978,7 +1978,7 @@ MAP._MapPoll = function () {
             if (data) {
                 const dataurl = data[0].toDataURL();
 
-                adapter.setState('map.map64', '<img src="' + dataurl + '" style="width: auto ;height: 100%;" />', true);
+                adapter.setState('map.map64', '<img src="' + dataurl + '" style="transform: scaleX(0.67) scaleY(0.74) translateX(-743px) TranslateY(-628px) rotate(0.4deg);" />', true);
 
                 if (Date.now() - that.LASTMAPSAVE > that.MAPSAFEINTERVALL) {
                     const buf = data[0].toBuffer();
