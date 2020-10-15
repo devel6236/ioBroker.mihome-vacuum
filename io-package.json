@@ -180,14 +180,14 @@
         "materialize": true,
         "compact": true,
         "icon": "mihome-vacuum.png",
-        "readme": "https://github.com/iobroker-community-adapters/ioBroker.mihome-vacuum/blob/master/README.md",
+        "readme": "https://github.com/devel6236/ioBroker.mihome-vacuum/blob/master/README.md",
         "keywords": [
             "url",
             "html",
             "file",
             "mihome-vacuum"
         ],
-        "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.mihome-vacuum/master/admin/mihome-vacuum.png",
+        "extIcon": "https://raw.githubusercontent.com/devel6236/ioBroker.mihome-vacuum/master/admin/mihome-vacuum.png",
         "type": "household",
         "config": {
             "minWidth": 800,
@@ -198,7 +198,7 @@
     "native": {
         "port": 54321,
         "ownPort": 53421,
-        "pingInterval": 20000,
+        "pingInterval": 10000,
         "wifiInterval": 60000,
         "valetudo_enable": false,
         "valetudo_color_floor": "#56affc",
