@@ -1,12 +1,6 @@
 ![Logo](admin/mihome-vacuum.png)
 # ioBroker mihome-vacuum adapter
 
-![Number of Installations](http://iobroker.live/badges/mihome-vacuum-installed.svg) ![Number of Installations](http://iobroker.live/badges/mihome-vacuum-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.mihome-vacuum.svg)](https://www.npmjs.com/package/iobroker.mihome-vacuum)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.mihome-vacuum.svg)](https://www.npmjs.com/package/iobroker.mihome-vacuum)
-[![Tests](https://travis-ci.org/iobroker-community-adapters/ioBroker.mihome-vacuum.svg?branch=master)](https://travis-ci.org/iobroker-community-adapters/ioBroker.mihome-vacuum)
-
-[![NPM](https://nodei.co/npm/iobroker.mihome-vacuum.png?downloads=true)](https://nodei.co/npm/iobroker.mihome-vacuum/)
-
 [Deutsche beschreibung hier](README_de.md)
 
 This adapter allows you control the Xiaomi vacuum cleaner.
