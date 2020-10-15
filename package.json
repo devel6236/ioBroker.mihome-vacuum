@@ -6,9 +6,9 @@
     "ioBroker",
     "mihome-vacuum"
   ],
-  "homepage": "https://github.com/iobroker-community-adapters/ioBroker.mihome-vacuum",
+  "homepage": "https://github.com/devel6236/ioBroker.mihome-vacuum",
   "bugs": {
-    "url": "https://github.com/iobroker-community-adapters/ioBroker.mihome-vacuum/issues"
+    "url": "https://github.com/devel6236/ioBroker.mihome-vacuum/issues"
   },
   "license": "MIT",
   "author": {
@@ -18,7 +18,7 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iobroker-community-adapters/ioBroker.mihome-vacuum"
+    "url": "https://github.com/devel6236/ioBroker.mihome-vacuum"
   },
   "scripts": {
     "test": "npm run test:package && npm run test:unit",
